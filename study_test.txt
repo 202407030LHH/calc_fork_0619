@@ -1,0 +1,9 @@
+./
+../
+.git/
+.gitignore
+LICENSE
+README.md
+calc/
+calc.sln
+study_test.txt
